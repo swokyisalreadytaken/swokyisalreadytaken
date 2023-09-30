@@ -49,7 +49,6 @@ SMALL ICONS
 - 🚀 Additionally, I have an interest in `Cybersecurity`, `Python`, `Data Analysis` and `Project Management`.
 - 🛠️ I have six years of work experience in `Graphic Design` and `Offset Printing` (InterContinental, Ibis, Amorim, ...).
 - 🪂 Interesting fact: I once jumped from a moving aeroplane at 5000 meters.
-- 📫 You can reach me on [**LinkedIn**](https://www.linkedin.com/in/joaoptoliveira/).
 
 
 
