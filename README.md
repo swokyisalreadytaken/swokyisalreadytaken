@@ -43,14 +43,12 @@ SMALL ICONS
 
 ## About me
 
-- 👋 My name is `João Oliveira`, but I also go by the nickname `swoky`, and at [**42 Porto**](https://www.42porto.com) I am known as `jotavare`.
+- 👋 My name is `João Oliveira` and at [**42 Porto**](https://www.42porto.com) I am known as `jotavare`.
 - 🌱 I’m currently studying Common Core at [**42 Porto**](https://www.42porto.com) after successfully completing the Piscine.
-- 👀 I’m interested in `Games`, `Anime/Manga`, `Snowboarding` and `3D Printing` (Creality Ender-3 V2).
+- 👀 I’m interested in `Games`, `Anime/Manga`, `Snowboarding` and `3D Printing`.
 - 🚀 Additionally, I have an interest in `Cybersecurity`, `Python`, `Data Analysis` and `Project Management`.
-- 🛠️ I have six years of work experience in `Graphic Design` and `Offset Printing` (InterContinental, Ibis, Amorim, ...).
+- 🛠️ I have six years of work experience in `Graphic Design` and `Offset Printing`.
 - 🪂 Interesting fact: I once jumped from a moving aeroplane at 5000 meters.
-
-
 
 <!---
 BIG ICONS
