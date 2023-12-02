@@ -48,7 +48,6 @@ SMALL ICONS
 - 👀 I’m interested in `Games`, `Anime/Manga`, `Snowboarding` and `3D Printing`.
 - 🚀 Additionally, I have an interest in `Cybersecurity`, `Python`, `Data Analysis` and `Project Management`.
 - 🛠️ I have six years of work experience in `Graphic Design` and `Offset Printing`.
-- 🪂 Interesting fact: I once jumped from a moving aeroplane at 5000 meters.
 
 <!---
 BIG ICONS
