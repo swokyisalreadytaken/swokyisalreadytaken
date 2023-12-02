@@ -4,28 +4,28 @@ DESCRIPTION
 ## The Good, the Bad and the Ugly
 <p float="left" align="center">
   <a href="https://github.com/jotavare/42-resources">
-    <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/profile/round_resources.png" width="265"/>
+    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_resources.png" width="265"/>
   </a>
   &nbsp;
   <a href="https://github.com/jotavare/42-piscine">
-    <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/profile/round_piscine.png" width="265"/>
+    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_piscine.png" width="265"/>
   </a>
   &nbsp;
   <a href="https://github.com/jotavare/42-common-core">
-    <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/profile/round_common_core.png" width="265"/>
+    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_common_core.png" width="265"/>
   </a>
 </p>
 <p float="left" align="center">  
   <a href="https://github.com/jotavare/42-ctf">
-    <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/profile/round_ctf.png" width="265"/>
+    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_ctf.png" width="265"/>
   </a>
   &nbsp;
   <a href="https://github.com/jotavare/guides-and-manuals">
-    <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/profile/round_guides_and_manuals.png" width="265"/>
+    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_guides_and_manuals.png" width="265"/>
   </a>
   &nbsp;
   <a href="https://github.com/jotavare/100-days-of-code-in-python">
-    <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/profile/round_python.png" width="265"/>
+    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_python.png" width="265"/>
   </a>
 </p>
 
