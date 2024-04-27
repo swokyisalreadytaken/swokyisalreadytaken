@@ -20,8 +20,8 @@ DESCRIPTION
     <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_ctf.png" width="265"/>
   </a>
   &nbsp;
-  <a href="https://github.com/jotavare/guides-and-manuals">
-    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_guides_and_manuals.png" width="265"/>
+  <a href="https://jotavare.github.io">
+    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_registry.png" width="265"/>
   </a>
   &nbsp;
   <a href="https://github.com/jotavare/100-days-of-code-in-python">
