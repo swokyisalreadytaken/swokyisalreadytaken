@@ -45,7 +45,7 @@ SMALL ICONS
 
 - I’m currently studying Common Core at [**42 Porto**](https://www.42porto.com) after successfully completing the Piscine.
 - I’m interested in `Games`, `Anime/Manga`, `Snowboarding` and `3D Printing`.
-- Additionally, I am interested in `Cybersecurity`, `Project Management` and `Data Analysis`.
+- My other areas of focus are `Cybersecurity`, `Project Management` and `Data Analysis`.
 - I have six years of work experience in `Graphic Design` and `Offset Printing`.
 
 <!---
