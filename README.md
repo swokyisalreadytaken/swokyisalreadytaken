@@ -1,7 +1,5 @@
-<!---
-DESCRIPTION
---->
 ## The Good, the Bad and the Ugly
+
 <p float="left" align="center">
   <a href="https://github.com/jotavare/42-resources">
     <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_resources_v1.png" width="265"/>
@@ -29,9 +27,6 @@ DESCRIPTION
   </a>
 </p>
 
-<!---
-SMALL ICONS
---->
 <p align="center">
   <a href='https://www.linkedin.com/in/jotavare' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
   </a>
@@ -48,17 +43,10 @@ SMALL ICONS
 - My other areas of focus are `Cybersecurity`, `Project Management` and `Data Analysis`.
 - I have six years of work experience in `Graphic Design` and `Offset Printing`.
 
-<!---
-BIG ICONS
---->
 ## Skills
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,python,git,github,bash,linux,vim,vscode,ai,ps,markdown,wordpress" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,python,git,github,bash,linux,vscode,ai,ps,markdown,latex,wordpress" />
   </a>
 </p>
-
-<!---
-jotavare/jotavare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
