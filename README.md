@@ -2,28 +2,28 @@
 
 <p float="left" align="center">
   <a href="https://github.com/jotavare/42-resources">
-    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_resources_982024.png" width="265"/>
+    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_resources_982024_651.png" width="265"/>
   </a>
   &nbsp;
   <a href="https://github.com/jotavare/42-piscine">
-    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_piscine_982024.png" width="265"/>
+    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_piscine_982024_651.png" width="265"/>
   </a>
   &nbsp;
   <a href="https://github.com/jotavare/42-common-core">
-    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_common_core_982024.png" width="265"/>
+    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_common_core_982024_651.png" width="265"/>
   </a>
 </p>
 <p float="left" align="center">
   <a href="https://github.com/jotavare/42-ctf">
-    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_ctf_982024.png" width="265"/>
+    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_ctf_982024_651.png" width="265"/>
   </a>
   &nbsp;
   <a href="https://jotavare.github.io">
-    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_registry_982024.png" width="265"/>
+    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_registry_982024_651.png" width="265"/>
   </a>
   &nbsp;
   <a href="https://github.com/jotavare/100-days-of-code-in-python">
-    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_python_982024.png" width="265"/>
+    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_python_982024_651.png" width="265"/>
   </a>
 </p>
 
