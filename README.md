@@ -15,7 +15,7 @@
 </p>
 <p float="left" align="center">
   <a href="https://github.com/jotavare/42-ctf">
-    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_arduino_982024_651.png" width="265"/>
+    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_arduino_982024_651.png" width="265"/>
   </a>
   &nbsp;
   <a href="https://jotavare.github.io">
