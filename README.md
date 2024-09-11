@@ -38,10 +38,10 @@
 
 ## About me
 
-- I finished the Common Core at 42 Porto, after successfully completing the Piscine.
-- I’m interested in `Games`, `Anime/Manga`, `Snowboarding` and `3D Printing`.
-- My other areas of focus are `Cybersecurity`, `Project Management` and `Data Analysis`.
+- I studied at 42 Porto, after completing the Piscine, mainly in C and C++.
+- My other areas of focus are `Cybersecurity` and `Project Management`.
 - I have six years of work experience in `Graphic Design` and `Offset Printing`.
+- My interests are `Games`, `Anime/Manga`, `Snowboarding` and `3D Printing`.
 
 ## Skills
 
